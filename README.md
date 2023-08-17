@@ -1,1 +1,14 @@
-# Personal-Introduction-Page
+# Personal Introduction Page
+Introducing myself
+
+## Technology
+- HTML
+- CSS
+
+## Features
+- Gradient background
+- Favicon
+
+## Setup
+1. Clone this repo to your computer
+2. Open with live server to view it
