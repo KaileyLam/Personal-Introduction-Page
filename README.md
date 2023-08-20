@@ -1,5 +1,5 @@
 # Personal Introduction Page
-Get to know me
+Get to know me!
 
 ## Technology
 - HTML
