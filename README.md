@@ -1,4 +1,4 @@
-# Personal Introduction Page
+# Landing Page
 Get to know me!
 
 ## Technology
