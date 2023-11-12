@@ -4,11 +4,17 @@ body {
 }
 
 .divspace {
-    margin-bottom: 50px;
+    margin: 0 auto 50px;
+    width: 80%;
 }
 .center {
     margin: auto;
     text-align: center;
+}
+
+.flex-horizontal {
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .header {
@@ -30,10 +36,17 @@ body {
     border: 3px solid white
 }
 
+.cluster {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+a {
+    color: white;
+}
+
 ul {
-    margin: auto;
     text-align: left;
-    width: 25%;
     display: inline-block;
     /* list-style-type: none; */
     /* ref: https://perishablepress.com/css-center-align-list-left-align-text/ */

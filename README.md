@@ -1,5 +1,5 @@
 # Landing Page
-Get to know me!
+Get to know me! (https://hayashimikii.netlify.app/)
 
 ## Technology
 - HTML
